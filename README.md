@@ -21,7 +21,7 @@ jintang = {
     "location":   "Sydney, AU (from Perth)",
     "degree":     "B. Advanced Computing (Hons) @ USYD",
     "focus":      ["Full Stack", "Blockchain infrastructure", "Low Latency Systems"],
-    "currently":  "Open to part-time & grad roles",
+    "currently":  "Open to new opportunities!",
 }
 ```
 
