@@ -8,7 +8,7 @@
 *Bachelor of Advanced Computing (Honours) · University of Sydney*
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jintang-zhao-a392a626b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victionn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jintang.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://jintang.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jintangzhao2011@gmail.com)
  
 </div>
