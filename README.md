@@ -1,11 +1,9 @@
 <div align="center">
 
+
 # Hey, I'm Jintang 👋
 
-**Software Engineer · Perth → Sydney**
-
-*Bachelor of Advanced Computing (Honours) · University of Sydney*
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=0a0a0a&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Algo+%26+Low+Latency+Systems;B.+Advanced+Computing+%40+USYD;Open+to+Grad+%26+Part-Time+Roles)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jintang-zhao-a392a626b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jintangzhao2011@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
