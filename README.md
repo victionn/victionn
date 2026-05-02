@@ -7,8 +7,8 @@
 *Bachelor of Advanced Computing (Honours) · University of Sydney*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jintang-zhao-a392a626b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victionn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jintangzhao2011@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -20,7 +20,7 @@
 jintang = {
     "location":   "Sydney, AU (from Perth)",
     "degree":     "B. Advanced Computing (Hons) @ USYD",
-    "focus":      ["Full Stack", "Algo Trading", "Low Latency Systems"],
+    "focus":      ["Full Stack", "Blockchain infrastructure", "Low Latency Systems"],
     "currently":  "Open to part-time & grad roles",
 }
 ```
@@ -60,9 +60,9 @@ jintang = {
 |---|--------|-------|
 | 🤖 | Algo trading & MEV bots | Python · Node.js · Ether.js · RPC |
 | 🌐 | Full stack web apps | React · Node.js · SQL · REST APIs |
-| 📊 | ML pipelines & data systems | Python · SKLearn · LightGBM · Jupyter |
+| 📊 | ML pipelines & data systems | Python · SQL · LightGBM · Jupyter |
 | 🔧 | Systems & networking | C · C++ · Bash · Linux · Docker |
-| 🎮 | OOP & game architecture | Java · Gradle · Design Patterns |
+| 🎮 | OOP & game architecture | Java · Gradle · OOP Principles |
 
 ---
 
@@ -74,23 +74,13 @@ jintang = {
 
 **[Pacman](https://github.com/victionn)** — Java Pacman implementation with a focus on OOP principles and software engineering patterns — Factory, Observer, Strategy and more.
 
----
-
-### > GitHub Stats
-
-<div align="center">
-
-![Jintang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victionn&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victionn&layout=compact&theme=graywhite&hide_border=true)
-
-</div>
 
 ---
 
 
 <div align="center">
 
-*Currently open to part-time and grad roles — feel free to reach out!*
+*Currently open to part-time and grad roles, feel free to reach out!*
 
 **[jintangzhao2011@gmail.com](mailto:jintangzhao2011@gmail.com) · +61 405 655 674**
 
