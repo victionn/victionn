@@ -81,8 +81,6 @@ jintang = {
 
 <div align="center">
 
-*Currently open to part-time, internships and grad roles, feel free to reach out!*
-
 **[jintangzhao2011@gmail.com](mailto:jintangzhao2011@gmail.com) · +61 405 655 674**
 
 </div>
