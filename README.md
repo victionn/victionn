@@ -69,7 +69,7 @@ jintang = {
 
 ### > Featured Projects
 
-**[Crypto Trading Sniper](https://github.com/victionn)**: Event-driven memecoin trading bot deployed on VPS colocated to validators. Achieved **~2000% ROI ($500 → $12,000 USD)** in 3 months via async multi-wallet RPC broadcast and 30ms avg execution.
+**[Crypto Trading Sniper](https://github.com/victionn)**: Event-driven memecoin trading bot deployed on VPS colocated to validators. Achieved **~2000% ROI ($500 → $12,000 USD)** in 3 months via async multi-wallet RPC broadcast and 30ms avg execution approval.
 
 **[Bytetyde](https://github.com/victionn)**: BitTorrent-inspired P2P file distribution system in C. Custom Merkle tree integrity verification, multithreaded client/server, mutex-safe peer management and adaptive chunk scheduling.
 
